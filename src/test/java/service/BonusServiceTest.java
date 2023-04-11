@@ -5,7 +5,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import br.com.alura.tdd.modelo.Funcionario;
